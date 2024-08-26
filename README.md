@@ -90,9 +90,6 @@ The **Global Video Insight Bot** is a comprehensive system that processes video 
 3. **Enter** any questions (optional).
 4. **Submit** the form to receive the transcription, summary, Q&A, and corresponding speech outputs.
 
-## Example Chart
-
-![System Workflow](https://via.placeholder.com/800x400.png?text=System+Workflow+Diagram)
 
 ## License
 
